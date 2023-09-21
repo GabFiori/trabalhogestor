@@ -1,0 +1,1 @@
+Esta funcionalidade é responsável por fazer a emissão de relatórios gerenciais e trazer dados que ajudem a entender os ganhos e prejuízos em certo período, permitindo uma visão total de como andam as finanças.
