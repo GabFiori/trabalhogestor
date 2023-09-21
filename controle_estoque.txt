@@ -1,0 +1,1 @@
+Funcionalidade responsável por identificar os produtos com maior ou menos saída e ajustar a estratégia de vendas de acordo.
