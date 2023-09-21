@@ -1,0 +1,1 @@
+Funcionalidade responsável por garantir a precisão dos procedimentos de venda, proporcionando o fácil controle de dados sobre faturamento, análise de desempenho do time de vendas e cálculo das comissões.
